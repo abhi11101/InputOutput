@@ -1,0 +1,1 @@
+SequenceInputStream is a class in Java that allows you to concatenate multiple InputStream objects into a single InputStream. This can be useful when you need to read data from multiple sources sequentially as if they were a single stream.

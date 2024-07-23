@@ -1,0 +1,3 @@
+String data using Stream
+8
+6435.544
